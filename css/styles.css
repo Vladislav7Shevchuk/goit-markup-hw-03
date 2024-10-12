@@ -177,7 +177,7 @@ img {
 }
 
 .innovation-item {
-  width: ((100% - 3 * 24px) / 4);
+  flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .innovation-title-text {
